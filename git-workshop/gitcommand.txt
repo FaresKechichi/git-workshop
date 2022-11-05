@@ -1,8 +1,0 @@
-how to init a repo?
-git init
-
-how to add the files?
-git add
-
-how to save the files?
-git commit
